@@ -67,22 +67,6 @@ Tampilan optimal di berbagai perangkat, mulai dari smartphone hingga desktop.
 
 ---
 
-## 📽️ Demo Antarmuka
-
-<div align="center">
-
-### 🎬 Gif
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="850"/>
-
-<br>
-
-✨ *Scroll, Hover, dan Nikmati Pengalaman UI Modern NeuraShop* ✨
-
-</div>
-
----
-
 ## 🌟 Workflow Sistem
 
 ```mermaid
