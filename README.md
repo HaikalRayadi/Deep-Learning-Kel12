@@ -71,9 +71,9 @@ Tampilan optimal di berbagai perangkat, mulai dari smartphone hingga desktop.
 
 <div align="center">
 
-### 🎬 Preview Animasi Aplikasi
+### 🎬 Gif
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR6MHd1MjFpMWxxdGVqZ2t4cmZuNXNiM2E1N2w1dHQwczNvODhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s1tAtvJLIYiVWNaCqy/giphy.gif" width="850"/>
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="850"/>
 
 <br>
 
