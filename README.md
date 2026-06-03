@@ -1,21 +1,19 @@
-<<<<<<< HEAD
-# React + Vite
+🚀 NeuraShop: AI Dynamic Pricing System
+"Cerdas dalam Menentukan Harga, Elegan dalam Berbelanja"
+⚡️ Tentang Proyek
+NeuraShop adalah sistem AI Dynamic Pricing yang dibangun untuk memprediksi harga optimal secara real-time. Proyek ini merupakan hasil kolaborasi Kelompok 12 dalam mata kuliah Deep Learning.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Fitur Interaktif
+🧠 AI Core: Model Deep Learning untuk analisis harga yang akurat.
 
-Currently, two official plugins are available:
+💎 Glassmorphism UI: Desain antarmuka modern yang futuristik.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Motion Design: Transisi mulus menggunakan Framer Motion.
 
-## React Compiler
+📱 Fully Responsive: Nyaman digunakan di HP maupun Desktop.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📽️ Demo Antarmuka (Contoh Animasi)
+(Saran: Kamu bisa mengambil screen record singkat aplikasi saat di-scroll, lalu convert menjadi GIF dan pasang di sini)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Deep-Learning-Kel12
-Merupakan Web Project Deep Learning dari Kelompok 12
->>>>>>> 8ff6026a47a7623881312b204c79add1d59efce2
+[Tambahkan GIF atau Gambar di sini]
+![Demo NeuraShop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR6MHd1MjFpMWxxdGVqZ2t4cmZuNXNiM2E1N2w1dHQwczNvODhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s1tAtvJLIYiVWNaCqy/giphy.gif)
